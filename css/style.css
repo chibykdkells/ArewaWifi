@@ -73,9 +73,12 @@ background-color: #eef5f5;
 };
 
 /* css for language switch starts*/
-.banna-btn {
-  
-}
+/* css for language switch starts*/
+.banner_btn {
+    background-color: #344684;
+    color: #344684;
+    border-radius: 3px;
+    align-item: center;
 /* Dropdown Button */
 
 .dropbtn {
