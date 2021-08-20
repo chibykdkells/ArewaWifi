@@ -77,7 +77,7 @@ background-color: #eef5f5;
     background-color: #344684;
     color: #344684;
     border-radius: 3px;
-    justify-content: center;
+    align-item: center;
 }
 /* Dropdown Button */
 
