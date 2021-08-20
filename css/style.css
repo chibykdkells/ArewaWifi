@@ -73,11 +73,14 @@ background-color: #eef5f5;
 };
 
 /* css for language switch starts*/
-#banner_btn {
-    background-color: #344684;
-    color: #344684;
+.banna-btn {
+    background-color: #fff;
+    color: #3d4646;
+    padding: 12px;
+    font-size: 14px;
+    border: none;
     border-radius: 3px;
-    align-items: center;
+    cursor: pointer;
 }
 /* Dropdown Button */
 
