@@ -73,12 +73,11 @@ background-color: #eef5f5;
 };
 
 /* css for language switch starts*/
-/* css for language switch starts*/
-.banner_btn {
+.lang-btn {
     background-color: #344684;
     color: #344684;
     border-radius: 3px;
-    align-item: center;
+}
 /* Dropdown Button */
 
 .dropbtn {
@@ -620,10 +619,9 @@ a:focus {
 
 .full {
     width: 100%;
-    float: center;
+    float: left;
     margin: 0;
     padding: 0;
-    align-items: center;
 }
 
 .vertical-center {
@@ -1285,7 +1283,7 @@ section .social_icons {
     font-size: 55px;
     font-weight: 600;
     line-height: 60px;
-    margin-top: 4rem;
+    margin-top: 190px;
     letter-spacing: -1px;
     margin-bottom: 30px;
 }
